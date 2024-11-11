@@ -1,2 +1,6 @@
-# ds-phase-2
-Data Science Bootcamp • Phase 2 • Deep Learning 
+# Data Science Bootcamp 
+
+## Фаза 2️⃣ Нейронные сети
+|№|Раздел|.|.|.|.|.|
+|-|-|-|-|-|-|-|
+|**2.1**| Введение в нейронные сети и pyTorch| [Пн]()| [Вт]()| [Ср]()| [Чт]()| [Пт]() |
